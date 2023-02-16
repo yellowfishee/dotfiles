@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://gitee.com/yellowfishee/nvim.git
+	fetch = +refs/heads/Packer:refs/remotes/origin/Packer
+[branch "Packer"]
+	remote = origin
+	merge = refs/heads/Packer

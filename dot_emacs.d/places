@@ -1,0 +1,26 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/home/yellowfish/back.txt" . 38)
+ ("/home/yellowfish/workspace/java/springboot/"
+  (dired-filename . "/home/yellowfish/workspace/java/springboot/.."))
+ ("/home/yellowfish/workspace/java/"
+  (dired-filename . "/home/yellowfish/workspace/java/.."))
+ ("/home/yellowfish/workspace/"
+  (dired-filename . "/home/yellowfish/workspace/.."))
+ ("/home/yellowfish/"
+  (dired-filename . "/home/yellowfish/.."))
+ ("/home/"
+  (dired-filename . "/home/.."))
+ ("/"
+  (dired-filename . "/.."))
+ ("/home/yellowfish/.emacs.d/init.el" . 429)
+ ("/home/yellowfish/.emacs.d/lisp/init-org.el" . 469)
+ ("/usr/share/emacs/28.2/lisp/org/org.el.gz" . 127416)
+ ("/home/yellowfish/.emacs.d/custom.el" . 515)
+ ("/home/yellowfish/.emacs.d/lisp/init-tools.el" . 100)
+ ("/home/yellowfish/.emacs.d/lisp/init-dashboard.el" . 159)
+ ("/home/yellowfish/.emacs.d/elpa/dashboard-20230126.2032/dashboard-autoloads.el" . 900)
+ ("/home/yellowfish/.emacs.d/lisp/init-eaf.el" . 184)
+ ("/opt/maven/conf/settings.xml" . 6450)
+ ("/home/yellowfish/.config/i3/config" . 403)
+ ("/home/yellowfish/.config/i3/"
+  (dired-filename . "/home/yellowfish/.config/i3/config")))
