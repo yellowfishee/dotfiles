@@ -61,7 +61,7 @@ hide_edge_borders both
 popup_during_fullscreen smart
 
 # start a terminal
-bindsym $mod+Return workspace $ws1; exec --no-startup-id alacritty
+bindsym $mod+Return exec --no-startup-id alacritty
 
 bindsym $mod+w exec --no-startup-id rofi -show drun
 
@@ -97,10 +97,10 @@ bindsym $mod+Shift+Up       move up
 bindsym $mod+Shift+Right    move right
 
 # split in horizontal orientation
-bindsym $mod+Ctrl+h split h
+bindsym $mod+Shift+h split h
 
 # split in vertical orientation
-bindsym $mod+Ctrl+v split v
+bindsym $mod+Shift+v split v
 
 # enter fullscreen mode for the focused container
 bindsym $mod+f fullscreen toggle
@@ -129,7 +129,7 @@ bindsym $mod+Shift+minus move scratchpad
 bindsym $mod+minus scratchpad show
 
 # move focused floating window to the center of all outputs
-bindsym $mod+Shift+h move absolute position center
+bindsym $mod+Ctrl+h move absolute position center
 
 # move focused floating window to the current position of the cursor
 bindsym $mod+Shift+m move position mouse

@@ -1,5 +1,10 @@
 ;;; -*- coding: utf-8; mode: lisp-data -*-
-(("/home/yellowfish/back.txt" . 38)
+(("/home/yellowfish/.config/picom/"
+  (dired-filename . "/home/yellowfish/.config/picom/picom.conf"))
+ ("/home/yellowfish/.emacs.d/lisp/init-ui.el" . 693)
+ ("/home/yellowfish/Nutstore Files/note/DJI.org" . 347)
+ ("/home/yellowfish/remember/note.org" . 121)
+ ("/home/yellowfish/back.txt" . 38)
  ("/home/yellowfish/workspace/java/springboot/"
   (dired-filename . "/home/yellowfish/workspace/java/springboot/.."))
  ("/home/yellowfish/workspace/java/"

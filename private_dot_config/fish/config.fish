@@ -9,6 +9,9 @@ neofetch
 export PATH="/home/yellowfish/.local/bin:$PATH"
 export PATH="~/.npm-global/bin:$PATH"
 
+# 修复conda下面的问题
+set -x TERMINFO /usr/share/terminfo
+
 
 alias n=neofetch
 alias bty="sh ~/.config/fish/sh/bty.sh"
